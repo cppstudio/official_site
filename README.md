@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## C++团队官方网站
 
 You can use the [editor on GitHub](https://github.com/cppstudio/official_site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
